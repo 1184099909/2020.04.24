@@ -1,2 +1,3 @@
 function
 console.info('');
+alert('');
